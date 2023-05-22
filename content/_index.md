@@ -22,6 +22,8 @@ sections:
       count: 1
       offset: 0
       order: desc
+      item_layout: vertical
+      show_abstract: true
     design:
       columns: '2'
       view: citation
