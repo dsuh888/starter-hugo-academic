@@ -17,7 +17,7 @@ sections:
       text: ''
       filters:
         folders:
-          - paper
+          - working-papers
         tag: job-market
       count: 1
       offset: 0
@@ -34,8 +34,8 @@ sections:
       text: ''
       filters:
         folders:
-          - paper
-        tag: working-paper
+          - working-papers
+        tag: wp
       count: 5
       offset: 0
       order: desc
