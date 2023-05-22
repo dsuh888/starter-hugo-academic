@@ -30,7 +30,7 @@ sections:
   - block: collection
     id: working-papers
     content:
-      title: Working Paper 1
+      title: Working Papers
       text: ''
       filters:
         folders:
