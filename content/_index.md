@@ -17,7 +17,7 @@ sections:
       text: ''
       filters:
         folders:
-          - working-paper
+          - working-papers
         tag: job-market
       count: 1
       offset: 0
@@ -30,12 +30,12 @@ sections:
   - block: collection
     id: working-papers
     content:
-      title: Working Papers
+      title: Working Paper 1
       text: ''
       filters:
         folders:
-          - working-paper
-        tag: working-paper
+          - working-papers
+        tag: wp
       count: 5
       offset: 0
       order: desc
