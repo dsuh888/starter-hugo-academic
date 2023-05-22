@@ -1,6 +1,7 @@
 ---
 title: Working paper 1
 date: 2022-10-24
+author: Donghyun Suh
 tags: [wp]
 ---
 
