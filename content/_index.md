@@ -35,12 +35,10 @@ sections:
     id: working-papers
     content:
       title: Working Papers
-      text: ''
+      text: >-
         <details>
-        <summary>Abstract</summary>
-
-        This is the abstract for the working paper.
-
+          <summary>Abstract</summary>
+          <p>This is an abstract</p>
         </details>
       filters:
         folders:
