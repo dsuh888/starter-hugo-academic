@@ -19,10 +19,10 @@ role: Doctoral candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Virginia
-    url: https://www.stanford.edu/
+    url: https://www.virginia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Macroeconomics, Economics of Artificial Intelligence, and Technological Change.
 
 # Interests to show in About widget
 interests:
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a doctoral candidate at the University of Virginia.
 {style="text-align: justify;"}
