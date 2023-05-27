@@ -6,7 +6,4 @@ abstract: "This is the abstract of WP"
 tags: [wp]
 ---
 
-This is the content of the working paper.
-
-
 
