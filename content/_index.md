@@ -14,11 +14,7 @@ sections:
     id: job-market-paper
     content:
       title: Job Market Paper
-      text: >-
-        <details>
-          <summary>Abstract</summary>
-          <p>This is an abstract</p>
-        </details>
+      text: ""
       filters:
         folders:
           - working-papers
