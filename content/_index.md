@@ -26,7 +26,7 @@ sections:
       show_abstract: true
     design:
       columns: '2'
-      view: citation-below-title
+      view: citation
   - block: collection
     id: working-papers
     content:
@@ -36,7 +36,7 @@ sections:
         folders:
           - working-papers
         tag: wp
-      count: 5
+      count: 1
       offset: 0
       order: desc
     design:
