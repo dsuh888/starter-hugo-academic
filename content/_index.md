@@ -14,7 +14,6 @@ sections:
     id: job-market-paper
     content:
       title: Job Market Paper
-<!--       text: '' -->
       text: >-
         <details>
           <summary>Abstract</summary>
