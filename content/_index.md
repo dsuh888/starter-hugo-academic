@@ -24,10 +24,9 @@ sections:
       item_layout: vertical
       show_abstract: true
       text: >-
-        <details>
-          <summary>Abstract</summary>
-          <p>{{.Params.abstract}}</p>
-        </details>
+      {{ if .Params.abstract }}
+        <p>{{ .Params.abstract }}</p>
+      {{ end }}
     design:
       columns: '2'
       view: citation
