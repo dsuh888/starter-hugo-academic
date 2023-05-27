@@ -31,6 +31,10 @@ sections:
     design:
       columns: '2'
       view: citation
+        <details>
+          <summary>Abstract</summary>
+          <p>This is an abstract</p>
+        </details>
   - block: collection
     id: working-papers
     content:
