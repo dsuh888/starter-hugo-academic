@@ -36,6 +36,12 @@ sections:
     content:
       title: Working Papers
       text: ''
+        <details>
+        <summary>Abstract</summary>
+
+        This is the abstract for the working paper.
+
+        </details>
       filters:
         folders:
           - working-papers
