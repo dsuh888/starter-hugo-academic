@@ -5,9 +5,8 @@ publishDate: 2021-01-05T20:13:52.623034Z
 authors: ["Donghyun Suh"]
 tags: [job-market]
 publication_types: ["3"]
-abstract: "This is an abstract."
+abstract: "This is the abstract of the paper."
 featured: true
-publication: "Job Market Paper"
 ---
 
 
