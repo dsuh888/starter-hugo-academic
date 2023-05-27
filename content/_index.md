@@ -14,7 +14,6 @@ sections:
     id: job-market-paper
     content:
       title: Job Market Paper
-      text: ""
       filters:
         folders:
           - working-papers
@@ -24,13 +23,14 @@ sections:
       order: desc
       item_layout: vertical
       show_abstract: true
-    design:
-      columns: '2'
-      view: citation
+      text: >-
         <details>
           <summary>Abstract</summary>
           <p>This is an abstract</p>
         </details>
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: working-papers
     content:
