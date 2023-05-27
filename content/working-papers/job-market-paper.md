@@ -1,10 +1,8 @@
 ---
-title: "My Job Market Paper"
+title: "Technology and Top Incomes"
 date: 2021-01-28
-publishDate: 2021-01-05T20:13:52.623034Z
 authors: ["Donghyun Suh"]
 tags: [job-market]
-publication_types: ["3"]
 abstract: "This is the abstract of the paper."
 featured: true
 ---
