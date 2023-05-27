@@ -41,7 +41,7 @@ sections:
       order: desc
     design:
       columns: '2'
-      view: citation
+      view: citation-below-title
   - block: collection
     id: publications
     content:
