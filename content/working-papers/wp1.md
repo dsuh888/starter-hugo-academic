@@ -1,7 +1,7 @@
 ---
-title: Working paper 1
+title: Macroeconomics and Technology
 date: 2022-10-24
-authors: ["Donghyun Suh"]
+authors: ["Donghyun Suh","Co-author 1"]
 tags: [wp]
 ---
 
