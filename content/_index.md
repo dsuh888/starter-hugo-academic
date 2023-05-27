@@ -27,6 +27,7 @@ sections:
         <details>
           <summary>Abstract</summary>
           <p>This is an abstract</p>
+          <p>{{.Params.abstract}}</p>
         </details>
     design:
       columns: '2'
