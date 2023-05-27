@@ -1,14 +1,12 @@
 ---
-title: Job Market Paper
-date: 2022-10-24
-tags: [job-market]
+title: "My Job Market Paper"
+date: 2021-01-28
+publishDate: 2021-01-05T20:13:52.623034Z
+authors: ["Donghyun Suh"]
+publication_types: ["3"]
+abstract: "This is an abstract."
+featured: true
+publication: "Job Market Paper"
 ---
 
-This is the content of the job market paper.
 
-<details>
-<summary>Abstract</summary>
-
-This is the abstract for the job market paper. It provides a concise summary of the research and findings.
-
-</details>
