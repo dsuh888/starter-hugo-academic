@@ -8,3 +8,7 @@ featured: true
 ---
 
 
+<details>
+  <summary>Abstract</summary>
+  <p>This is an abstract</p>
+</details>
